@@ -71,4 +71,5 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-include: _includes/custom-head.html
+include:
+  - _includes/custom-head.html
