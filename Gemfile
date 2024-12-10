@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
+# gemspec
 
 gem "minima", github: "jekyll/minima"
