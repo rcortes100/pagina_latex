@@ -12,6 +12,8 @@ This is new, without mathjax
 Some $\latex$ equations:
 $E=mc^2$
 
+\[ x^2+1=0 \]
+
 $$ y = x^2 +1 $$
 
 ```math
