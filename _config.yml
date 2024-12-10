@@ -32,6 +32,7 @@ header_pages:
   - page01.md
   - page02.md
   - page03.md
+  - blog.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
