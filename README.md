@@ -5,6 +5,10 @@ $ x^2 + 5 = 2$
 
 $$ x^2 + 5 = 2$$
 
+\[ x^2 +1 = 0 \]
+
+\( x^2 +1 = 0 \)
+
 This is new
 
 Some $\latex$ equations:
