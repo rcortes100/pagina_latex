@@ -10,6 +10,8 @@ layout: home
 
 # This is the content of index.md
 
+What happens when I try to add this 26 mar 2025
+
 This is new, without mathjax
 
 Some $\latex$ equations:
